@@ -3,6 +3,12 @@
 ## Overview
 **ConnectionMap** is a LinkedIn-inspired visualization tool that maps a user’s professional network as an interactive, connection tree. Users can view and explore connections organized by categories such as skills, job titles, and mutual connections. The app provides an intuitive interface that helps users better understand their network structure and find optimal paths to reach specific connections.
 
+## :camera: Screenshots (Unfinished):
+
+<p align="center">
+<img src="/connectionmap.png" alt="Graph Representation of Connections" height="700" title="Plotly Graph Representation of Connections" />
+</p>
+
 ## Technologies Used
 - **Streamlit**: For creating a fast, interactive web interface.
 - **React**: For building responsive front-end components.
